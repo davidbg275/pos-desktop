@@ -1,3 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled classes y builds
+target/
+out/
+
+
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
